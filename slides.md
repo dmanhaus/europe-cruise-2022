@@ -70,5 +70,5 @@ src: ./slides/012-day-2-uffizi-gallery.md
 
 ---
 layout: two-cols
-src: ./slides/013-day-2-pitti-palace-and-boboli-gardens.md
+src: ./slides/013-day-2-ponte-vecchio.md
 ---
