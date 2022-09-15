@@ -19,56 +19,56 @@ drawings:
 css: unocss
 background: https://www.carnival.com/-/media/images/ships/pr/carnival-pride-1.jpg
 class: 'text-center'
-src: ./slides/001-cover.md
+src: ./slides/00-intro/001-cover.md
 ---
 
 ---
-src: ./slides/002-short-itinerary-part-1.md
+src: ./slides/01-itinerary/002-short-itinerary-part-1.md
 ---
 
 ---
-src: ./slides/003-short-itinerary-part-2.md
+src: ./slides/01-itinerary/003-short-itinerary-part-2.md
 ---
 
 ---
-src: ./slides/004-short-itinerary-part-3.md
+src: ./slides/01-itinerary/004-short-itinerary-part-3.md
 ---
 
 ---
-src: ./slides/005-day-0-transatlantic.md
+src: ./slides/02-florence/005-day-0-transatlantic-flight-to-rome.md
 ---
 
 ---
-src: ./slides/006-day-1-rome-to-florence.md
+src: ./slides/02-florence/006-day-1-rome-to-florence.md
 ---
 
 ---
-src: ./slides/007-florence-overview.md
+src: ./slides/02-florence/007-florence-overview.md
 ---
 
 ---
-src: ./slides/008-day-1-florence-arrival.md
+src: ./slides/02-florence/008-day-1-florence-arrival.md
 ---
 
 ---
-src: ./slides/009-day-1-florence-duomo.md
+src: ./slides/02-florence/009-day-1-florence-duomo.md
 ---
 
 ---
-src: ./slides/010-day-1-florence-dinner.md
----
-
----
-layout: two-cols
-src: ./slides/011-day-2-florence-walk-to-uffizi.md
+src: ./slides/02-florence/010-day-1-florence-dinner.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/012-day-2-florence-uffizi-gallery.md
+src: ./slides/02-florence/011-day-2-florence-walk-to-uffizi.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/013-day-2-florence-ponte-vecchio.md
+src: ./slides/02-florence/012-day-2-florence-uffizi-gallery.md
+---
+
+---
+layout: two-cols
+src: ./slides/02-florence/013-day-2-florence-ponte-vecchio.md
 ---
