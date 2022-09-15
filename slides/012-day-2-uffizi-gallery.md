@@ -5,7 +5,7 @@
 Allow 1.5 hours to tour
 
 > See the greatest collection of Italian paintings in the world by Giotto, Leonardo, Raphael, Caravaggio, Titian, Michelangelo, and Botticelli, including the iconic "Birth of Venus".<br>
-<span style="font-size:50%">listen to [Rick Steves' Uffizi Gallery Audio Tour](/UffiziGallery.mp3) (MP3, 1:01:35)</span>
+<span style="font-size:50%">listen to [Rick Steves' Uffizi Gallery Audio Tour](https://podcasts.ricksteves.com/walkingtours/UffiziGallery.mp3) (MP3, 1:01:35)</span>
 
 <br>
 
