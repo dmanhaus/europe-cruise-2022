@@ -62,3 +62,13 @@ src: ./slides/010-day-1-dinner-florence.md
 layout: two-cols
 src: ./slides/011-day-2-walk-to-uffizi.md
 ---
+
+---
+layout: two-cols
+src: ./slides/012-day-2-uffizi-gallery.md
+---
+
+---
+layout: two-cols
+src: ./slides/013-day-2-pitti-palace-and-boboli-gardens.md
+---
