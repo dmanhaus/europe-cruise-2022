@@ -1,5 +1,5 @@
 #### Day 0 - Thu 10/6 
-## Trans-Atlantic Crossing 
+## Trans-Atlantic Flight to Rome 
 ### 
 ### 🚐 East Haven to JFK by Ground Transport <span style="color:red"> **(unconfirmed)** </span>
  

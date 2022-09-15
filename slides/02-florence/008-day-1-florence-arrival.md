@@ -15,8 +15,8 @@
 
 > If you're hungry, there are many options near the AirBnB including: <br>
 
-- Eataly, a modern "foodie" mini-mall chain located in many major Italian (and US) cities
 - Caffeteria della Oblate, a laid-back budget eatery a block from the Duomo within a cultural center and library, featuring an outdoor terrace and a bright interior with views of the Duomo
+- Eataly, a modern "foodie" mini-mall chain located in many major Italian (and US) cities
 
 <br>
 
