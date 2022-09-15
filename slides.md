@@ -47,28 +47,28 @@ src: ./slides/007-florence-overview.md
 ---
 
 ---
-src: ./slides/008-day-1-arrival-florence.md
+src: ./slides/008-day-1-florence-arrival.md
 ---
 
 ---
-src: ./slides/009-day-1-duomo-florence.md
+src: ./slides/009-day-1-florence-duomo.md
 ---
 
 ---
-src: ./slides/010-day-1-dinner-florence.md
----
-
----
-layout: two-cols
-src: ./slides/011-day-2-walk-to-uffizi.md
+src: ./slides/010-day-1-florence-dinner.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/012-day-2-uffizi-gallery.md
+src: ./slides/011-day-2-florence-walk-to-uffizi.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/013-day-2-ponte-vecchio.md
+src: ./slides/012-day-2-florence-uffizi-gallery.md
+---
+
+---
+layout: two-cols
+src: ./slides/013-day-2-florence-ponte-vecchio.md
 ---
