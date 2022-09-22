@@ -90,12 +90,12 @@ src: ./slides/02-florence/016-day-2-florence-boboli-gardens.md
 
 ---
 layout: two-cols
-src: ./slides/02-florence/day-2-florence-accademia.md
+src: ./slides/02-florence/017-day-2-florence-accademia.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/02-florence/day-2-florence-dinner.md
+src: ./slides/02-florence/018-day-2-florence-dinner.md
 ---
 
 ---
