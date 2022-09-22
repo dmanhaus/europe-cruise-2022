@@ -1,6 +1,5 @@
 #### Day 1 - Fri 10/7 
-## Arrival in Florence
-<br>
+## **Arrival in Florence**
 
 ### AirBnB Check-in - Via Santa Elisabetta 5, Florence, Toscana Italy
 

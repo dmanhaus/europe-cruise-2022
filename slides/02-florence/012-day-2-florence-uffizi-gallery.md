@@ -1,5 +1,5 @@
 #### Day 2 - Sat 10/8
-## Uffizi Gallery
+## **Uffizi Gallery**
 
 🏰 **9:00 - 9:15 AM**: Timed Entry into Uffizi Gallery<br>
 <span style="font-size:75%">Allow 1.5 hours to tour</span>

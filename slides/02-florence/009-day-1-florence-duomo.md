@@ -1,5 +1,5 @@
 #### Day 1 - Fri 10/7 
-## Exploring The Duomo
+## **Exploring The Duomo**
 <br>
 
 > Entry is free, so take some time this afternoon while we stay close to "home" to explore the beauty of the Duomo from the Piazzas outside, and the Cathedral within. 

@@ -1,5 +1,5 @@
 #### Day 2 - Sat 10/8
-## Pitti Palace
+## **Pitti Palace**
 
 ### Palantine Gallery
 
