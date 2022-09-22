@@ -17,28 +17,28 @@ Santorini
 D&D - Oia & Thira
 T&K - Volcano & Hot Springs
 J&J - Volcano & Hot Springs
-W&R - No Excursion
+W&R - Catamaran Sail, Swim & BBQ
 
 Athens
 
 D&D - Top 10 Best of Athens
 T&K - Top 10 Best of Athens
 J&J - Top 10 Best of Athens
-W&R - No Excursion
+W&R - Mycenae & Ancient Corinth
 
 Katakolon
 
 D&D - No Excursion
 T&K - Olympia & Magna Grecia
 J&J - Olympia & Magna Grecia
-W&R - No Excursion
+W&R - Olympia & Magna Grecia
 
 Messina
 
 D&D - Taormina On Your Own
 T&K - Taormina On Your Own
 J&J - Taormina On Your Own
-W&R - No Excursion
+W&R - Taormina & Mount Etna
 
 Naples
 
