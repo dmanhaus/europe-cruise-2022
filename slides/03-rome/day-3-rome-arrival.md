@@ -6,3 +6,5 @@
 #### <span style="font-size:75%">(Check-in Time: 3:00 PM)</span>
 
 🚶**12:30 (approximate)**: Walk from Train Station to AirBnB [(11 minutes)](https://goo.gl/maps/UoVfD7pYrtoNMjom7)
+
+**Need to get COVID tests, either in neighborhood pharmacy, or in AirBnb**
