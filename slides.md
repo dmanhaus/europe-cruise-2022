@@ -112,6 +112,53 @@ src: ./slides/03-rome/day-3-rome-arrival.md
 
 ---
 layout: two-cols
+src: ./slides/03-rome/day-3-rome-bus-to-piazza-navona.md
+---
+
+---
+layout: two-cols
+src: ./slides/03-rome/day-3-rome-heart-of-rome-walk.md
+---
+
+---
+layout: two-cols
+src: ./slides/03-rome/day-3-rome-pantheon.md
+---
+
+---
+layout: two-cols
+src: ./slides/03-rome/day-3-rome-trevi-fountain.md
+---
+
+---
+layout: two-cols
+src: ./slides/03-rome/day-3-rome-spanish-steps.md
+---
+
+---
+layout: two-cols
+src: ./slides/03-rome/day-4-rome-st-peters-square.md
+---
+
+---
+layout: two-cols
+src: ./slides/03-rome/day-4-rome-roman-forum.md
+---
+
+---
+layout: two-cols
+src: ./slides/03-rome/day-4-rome-palatine-hill.md
+---
+
+---
+layout: two-cols
+src: ./slides/03-rome/day-4-rome-colosseum.md
+---
+
+
+
+---
+layout: two-cols
 src: ./slides/05-turkey-and-greece/day-8-mykonos.md
 ---
 
