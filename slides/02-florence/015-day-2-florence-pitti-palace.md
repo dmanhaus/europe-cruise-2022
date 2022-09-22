@@ -1,6 +1,5 @@
 #### Day 2 - Sat 10/8
 ## **Pitti Palace**
-<br>
 <details>
 <summary><span style="font-size:75%"> click here for Lunch Option #2 </span></summary>
 
