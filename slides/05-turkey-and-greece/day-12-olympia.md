@@ -9,6 +9,8 @@
 
 🚢 **5:00**: Depart port
 
+🍴 **6:30**: D&D - [Steakhouse](https://www.carnival.com/reserve-dining/steakhouse-STEAKHOUSE) Dinner Reservation for 2
+
 ::right::
 
 <img src="/olympia.jpg" height="200" width="400" style="margin:auto">
