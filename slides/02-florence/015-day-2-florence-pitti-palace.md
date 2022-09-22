@@ -1,7 +1,14 @@
 #### Day 2 - Sat 10/8
 ## **Pitti Palace**
+<br>
+<details>
+<summary><span style="font-size:75%"> click here for Lunch Option #2 </span></summary>
 
-🏰 **11:30 AM**: Entry into Uffizi Gallery<br>
+<span style="font-size:75%">If we missed out on panini at "All’Antico Vinaio", here's another option:<br>
+[Trattoria La Casalinga](https://trattorialacasalinga.it/en/our-menu/)</span> <span style="font-size:50%">[map](https://goo.gl/maps/cXGgZQteLjhBNHPUA)</span>
+</details>
+
+🏰 **12:30 PM**: Entry into Pitti Palace<br>
 <span style="font-size:75%">Allow 1.5 hours to tour</span>
 
 ### Palantine Gallery

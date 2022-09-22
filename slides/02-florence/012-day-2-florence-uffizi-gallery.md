@@ -9,12 +9,11 @@
 
 <br>
 
-<img src="/birth-of-venus.jpg" height="500" width="250" style="margin:auto"/>
+<img src="/birth-of-venus.jpg" height="125" width="250" style="margin:auto"/>
 
 <br>
 
-> Now, let's press on to Pitti Palace!
-
+> Seeing priceless works of art makes you hungry, right?
 
 ::right::
 

@@ -70,17 +70,22 @@ src: ./slides/02-florence/012-day-2-florence-uffizi-gallery.md
 
 ---
 layout: two-cols
-src: ./slides/02-florence/013-day-2-florence-ponte-vecchio.md
+src: ./slides/02-florence/013-day-2-allantico-vinaio.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/02-florence/014-day-2-florence-pitti-palace.md
+src: ./slides/02-florence/014-day-2-florence-ponte-vecchio.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/02-florence/015-day-2-florence-boboli-gardens.md
+src: ./slides/02-florence/015-day-2-florence-pitti-palace.md
+---
+
+---
+layout: two-cols
+src: ./slides/02-florence/016-day-2-florence-boboli-gardens.md
 ---
 
 ---

@@ -10,7 +10,7 @@
 
 <br>
 
-> Crossing the river Arno, a short walk leads us to the entrance of Pitti Palace. 
+> Next, we'll cross into the Oltrarno, literally the "other side of the River Arno".
 
 ::right::
 
