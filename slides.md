@@ -72,3 +72,37 @@ src: ./slides/02-florence/012-day-2-florence-uffizi-gallery.md
 layout: two-cols
 src: ./slides/02-florence/013-day-2-florence-ponte-vecchio.md
 ---
+
+---
+src: ./slides/05-turkey-and-greece/day-8-mykonos.md
+---
+
+---
+layout: two-cols
+src: ./slides/05-turkey-and-greece/day-9-ephesus.md
+---
+
+---
+layout: two-cols
+src: ./slides/05-turkey-and-greece/day-10-santorini.md
+---
+
+---
+layout: two-cols
+src: ./slides/05-turkey-and-greece/day-11-athens.md
+---
+
+---
+layout: two-cols
+src: ./slides/05-turkey-and-greece/day-12-olympia.md
+---
+
+---
+layout: two-cols
+src: ./slides/06-sicily-and-naples/day-13-sicily.md
+---
+
+---
+layout: two-cols
+src: ./slides/06-sicily-and-naples/day-14-naples.md
+---
