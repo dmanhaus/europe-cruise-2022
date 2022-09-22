@@ -5,4 +5,4 @@
 
 ::right::
 
-<img src="/accademia-floor-plan.png" height="800" width="400" style="margin:auto"/>
+<img src="/accademia-floor-plan.png" height="650" width="325" style="margin:auto"/>

@@ -74,6 +74,39 @@ src: ./slides/02-florence/013-day-2-florence-ponte-vecchio.md
 ---
 
 ---
+layout: two-cols
+src: ./slides/02-florence/014-day-2-florence-pitti-palace.md
+---
+
+---
+layout: two-cols
+src: ./slides/02-florence/015-day-2-florence-boboli-gardens.md
+---
+
+---
+layout: two-cols
+src: ./slides/02-florence/day-2-florence-accademia.md
+---
+
+---
+layout: two-cols
+src: ./slides/02-florence/day-2-florence-dinner.md
+---
+
+---
+src: ./slides/03-rome/day-3-florence-to-rome.md
+---
+
+---
+src: ./slides/03-rome/rome-overview.md
+---
+
+---
+src: ./slides/03-rome/day-3-rome-arrival.md
+---
+
+---
+layout: two-cols
 src: ./slides/05-turkey-and-greece/day-8-mykonos.md
 ---
 
@@ -106,3 +139,7 @@ src: ./slides/06-sicily-and-naples/day-13-sicily.md
 layout: two-cols
 src: ./slides/06-sicily-and-naples/day-14-naples.md
 ---
+
+
+
+

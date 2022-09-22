@@ -1,7 +1,7 @@
 #### Day 1 - Fri 10/7 
 ## **Arrival in Florence**
 
-### AirBnB Check-in - Via Santa Elisabetta 5, Florence, Toscana Italy
+### AirBnB Check-in - Via Santa Elisabetta 5, Florence, Toscana Italy (Check-in Time:3:00 PM)
 
 🚶**2:30 (approximate)**: Walk from Train Station to AirBnB [(11 minutes)](https://goo.gl/maps/pCivNQbnYBPQdVzu5)
 
