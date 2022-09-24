@@ -59,47 +59,52 @@ src: ./slides/02-florence/009-day-1-florence-duomo.md
 ---
 
 ---
-src: ./slides/02-florence/010-day-1-florence-dinner.md
+layout: two-cols
+src: ./slides/02-florence/010-day-1-florence-restaurants.md
+---
+
+---
+src: ./slides/02-florence/011-day-1-florence-dinner.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/02-florence/011-day-2-florence-walk-to-uffizi.md
+src: ./slides/02-florence/012-day-2-florence-walk-to-uffizi.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/02-florence/012-day-2-florence-uffizi-gallery.md
+src: ./slides/02-florence/013-day-2-florence-uffizi-gallery.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/02-florence/013-day-2-allantico-vinaio.md
+src: ./slides/02-florence/014-day-2-allantico-vinaio.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/02-florence/014-day-2-florence-ponte-vecchio.md
+src: ./slides/02-florence/015-day-2-florence-ponte-vecchio.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/02-florence/015-day-2-florence-pitti-palace.md
+src: ./slides/02-florence/016-day-2-florence-pitti-palace.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/02-florence/016-day-2-florence-boboli-gardens.md
+src: ./slides/02-florence/017-day-2-florence-boboli-gardens.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/02-florence/017-day-2-florence-accademia.md
+src: ./slides/02-florence/018-day-2-florence-accademia.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/02-florence/018-day-2-florence-dinner.md
+src: ./slides/02-florence/019-day-2-florence-dinner.md
 ---
 
 ---
