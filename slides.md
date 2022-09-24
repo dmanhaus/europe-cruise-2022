@@ -12,6 +12,10 @@ info: |
   Presentation slides for developers.
 
   Learn more at [Sli.dev](https://sli.dev)
+
+download: true
+exportFilename: 'european-cruise-2022'
+
 # persist drawings in exports and build
 drawings:
   persist: false
