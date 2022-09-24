@@ -192,6 +192,20 @@ layout: two-cols
 src: ./slides/06-sicily-and-naples/day-14-naples.md
 ---
 
+---
+layout: two-cols
+src: ./slides/06-sicily-and-naples/day-14-naples-amalfi.md
+---
+
+---
+layout: two-cols
+src: ./slides/06-sicily-and-naples/day-14-naples-positano.md
+---
+
+---
+layout: two-cols
+src: ./slides/06-sicily-and-naples/day-14-naples-sorrento.md
+---
 
 
 
