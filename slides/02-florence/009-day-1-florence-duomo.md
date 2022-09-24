@@ -6,4 +6,4 @@
 
 |     |     |     |
 | --- | --- | --- | 
-| <img src="https://www.insideinferno.com/images/firenze/Duomo/Duomo-Battistero_1118.jpg" width="300" height="150"> | <img src="https://thumbs.dreamstime.com/b/florence-italy-september-florence-duomo-main-nave-inside-cathedral-santa-maria-del-fiore-florence-italy-florence-duomo-main-190010534.jpg" width="150" height="300"> | <img src="https://d1c96a4wcgziwl.cloudfront.net/ec76Florence_Duomo_Information_Faqs_03.jpg" width="300" height="150"> |
+| <img src="/duomo-battistero.jpg" width="300" height="150"> | <img src="/duomo-interior.jpg" width="150" height="300"> | <img src="/duomo-dome.jpg" width="300" height="150"> |
