@@ -103,7 +103,6 @@ src: ./slides/02-florence/018-day-2-florence-accademia.md
 ---
 
 ---
-layout: two-cols
 src: ./slides/02-florence/019-day-2-florence-dinner.md
 ---
 
