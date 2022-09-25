@@ -1,4 +1,4 @@
-#### Day 3 - Sun 10/9
+#### Day 3 - Sun 10/9 - Rome
 ## **"Heart of Rome" Walk**
 
 <br>

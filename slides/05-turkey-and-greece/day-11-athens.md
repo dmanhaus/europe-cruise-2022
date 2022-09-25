@@ -1,4 +1,4 @@
-#### Day 11 - Mon 10/17  (Cruise Day 7)
+#### Day 11 - Mon 10/17 - Cruise Day 7
 ## **Athens**
 
 🚢 **6:00**: Arrive at port

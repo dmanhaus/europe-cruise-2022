@@ -1,4 +1,4 @@
-#### Day 12 - Tue 10/18  (Cruise Day 8)
+#### Day 12 - Tue 10/18 - Cruise Day 8
 ## **Olympia** <span style="font-size:75%">(Anchor at Katakolon)</span>
 
 🚢 **8:00**: Arrive at port

@@ -1,4 +1,4 @@
-#### Day 14 - Thu 10/20  (Cruise Day 10)
+#### Day 14 - Thu 10/20 - Cruise Day 10
 ## Amalfi Coast Tour: **Sorrento**
 
 > Next, we'll board a shuttle bus to rejoin our coach.  The coach brings us to **Sorrento**, our final stop.  We'll have more free time to explore, have lunch in a local restaurant, and finally board the coach to return to the Port of Naples and the ship.

@@ -1,4 +1,4 @@
-#### Day 14 - Thu 10/20  (Cruise Day 10)
+#### Day 14 - Thu 10/20 - Cruise Day 10
 ## Amalfi Coast Tour: **Amalfi Town**
 
 <br>

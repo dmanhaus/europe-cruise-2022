@@ -1,4 +1,4 @@
-#### Day 3 - Sun 10/9
+#### Day 3 - Sun 10/9 - Travel Day
 ## **Florence to Rome**
 
 > It's time to say goodbye to Florence.  Check-out time is 11:00, but we're going to try to get an early start for the trip back to Rome.

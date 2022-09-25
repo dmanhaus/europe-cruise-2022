@@ -1,2 +1,2 @@
-#### Day 6 & 7 - Tue & Wed 10/12 & 13
+#### Day 6 and 7 - Tue 10/12, Wed 10/13 - Cruise Days 2 and 3
 ## Days at Sea

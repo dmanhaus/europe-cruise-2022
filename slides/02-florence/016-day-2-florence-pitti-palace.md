@@ -1,4 +1,4 @@
-#### Day 2 - Sat 10/8
+#### Day 2 - Sat 10/8 - Florence
 ## **Pitti Palace**
 <details>
 <summary><span style="font-size:75%"> click here for Lunch Option #2 </span></summary>

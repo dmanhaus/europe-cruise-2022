@@ -1,5 +1,5 @@
-#### Day 3 - Sun 10/9
-## Pantheon
+#### Day 3 - Sun 10/9 - Rome
+## **Pantheon**
 
 <span style="font-size:50%">listen to [Rick Steves' Pantheon Audio Tour](https://podcasts.ricksteves.com/walkingtours/Pantheon.mp3) (MP3, 23:20)</span>
 

@@ -1,4 +1,4 @@
-#### Day 2 - Sat 10/8
+#### Day 2 - Sat 10/8 - Florence
 ## **Ponte Vecchio**
 
 🚶**12:00 PM**: Walk to Pitti Palace [(10 mins)](https://goo.gl/maps/DzviAUZLp9neK5zWA)

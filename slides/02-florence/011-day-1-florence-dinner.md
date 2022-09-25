@@ -1,5 +1,5 @@
-#### Day 1 - Fri 10/7 
-## **Rooftop Dinner in Florence**
+#### Day 1 - Fri 10/7 - Florence
+## **Rooftop Dinner**
 
 <br>
 

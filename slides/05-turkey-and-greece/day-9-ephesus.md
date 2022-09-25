@@ -1,4 +1,4 @@
-#### Day 9 - Sat 10/15  (Cruise Day 5)
+#### Day 9 - Sat 10/15 - Cruise Day 5
 ## **Ephesus** <span style="font-size:75%">(Anchor at Kusadasi, Turkey)</span>
 
 🚢 **7:00**: Arrive at port

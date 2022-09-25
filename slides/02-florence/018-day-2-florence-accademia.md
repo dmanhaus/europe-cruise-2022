@@ -1,4 +1,4 @@
-#### Day 2 - Sat 10/8
+#### Day 2 - Sat 10/8 - Florence
 ## **Accademia**
 #### (Michelangelo's **David**)
 

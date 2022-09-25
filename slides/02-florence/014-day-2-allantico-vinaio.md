@@ -1,4 +1,4 @@
-#### Day 2 - Sat 10/8
+#### Day 2 - Sat 10/8 - Florence
 ## **Panini at All'antico Vinaio** 
 #### Lunch Option #1 <span style="font-size:50%">[Menu](https://www.allanticovinaio.com/il-menu-firenze_en/)</span>
 

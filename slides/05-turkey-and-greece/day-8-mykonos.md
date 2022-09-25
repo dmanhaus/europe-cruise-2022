@@ -1,4 +1,4 @@
-#### Day 8 - Fri 10/14 (Cruise Day 4)
+#### Day 8 - Fri 10/14 - Cruise Day 4
 ## **Mykonos**
 
 🚢 **9:00**: Arrive at port

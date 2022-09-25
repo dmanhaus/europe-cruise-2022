@@ -1,5 +1,5 @@
-#### Day 1 - Fri 10/7 
-## **Arrival in Florence**
+#### Day 1 - Fri 10/7 - Florence
+## **Arrival**
 
 ### AirBnB - [Via Santa Elisabetta 5, Florence](https://www.airbnb.com/rooms/4623533?source_impression_id=p3_1662931598_8UVrLLOCV2J5awOL) <span style="font-size:75%">(Check-in Time: 3:00 PM)</span>
 

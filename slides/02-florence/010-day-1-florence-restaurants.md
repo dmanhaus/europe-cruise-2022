@@ -1,5 +1,5 @@
-#### Day 1 - Fri 10/7 
-## **Food & Shopping in Florence**
+#### Day 1 - Fri 10/7 - Florence 
+## **Food & Shopping**
 
 > If you're hungry, there are many options near the AirBnB including: <br>
 > - [**Caffeteria della Oblate**](https://www.tripadvisor.com/Restaurant_Review-g187895-d2433470-Reviews-Caffetteria_delle_Oblate-Florence_Tuscany.html), a laid-back budget eatery a block from the Duomo within a library, known more for its outdoor terrace and a bright interior with views of the Duomo, than the food, which is basic but affordable.

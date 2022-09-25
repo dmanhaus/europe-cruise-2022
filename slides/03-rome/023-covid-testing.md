@@ -1,4 +1,4 @@
-#### Day 3/4 - Sun 10/9 & Mon 10/10 
+#### Day 3/4 - Sun 10/9 & Mon 10/10 - Rome
 ## **COVID Testing Options**
 
 At this time, there are three scenarios, any of which may play out:

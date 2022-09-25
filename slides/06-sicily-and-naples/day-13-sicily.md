@@ -1,4 +1,4 @@
-#### Day 13 - Wed 10/19  (Cruise Day 9)
+#### Day 13 - Wed 10/19 - Cruise Day 9
 ## **Sicily** <span style="font-size:75%">(Anchor at Messina)</span>
 
 🚢 **9:00**: Arrive at port

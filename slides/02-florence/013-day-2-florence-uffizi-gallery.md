@@ -1,4 +1,4 @@
-#### Day 2 - Sat 10/8
+#### Day 2 - Sat 10/8 - Florence
 ## **Uffizi Gallery**
 
 🏰 **9:00 - 9:15 AM**: Timed Entry into Uffizi Gallery<br>

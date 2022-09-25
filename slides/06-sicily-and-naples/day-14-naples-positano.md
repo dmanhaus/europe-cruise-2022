@@ -1,4 +1,4 @@
-#### Day 14 - Thu 10/20  (Cruise Day 10)
+#### Day 14 - Thu 10/20 - Cruise Day 10
 ## Amalfi Coast Tour: **Positano**
 <br>
 <img src="/amalfi-coast.jpg" height="150" width="300" style="margin:auto">

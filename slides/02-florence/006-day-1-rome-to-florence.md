@@ -1,4 +1,4 @@
-#### Day 1 - Fri 10/7
+#### Day 1 - Fri 10/7 - Travel Day
 ## **Rome to Florence**
 
 ✈️ **9:00 AM**: Scheduled to land at Leonardo da Vinci airport

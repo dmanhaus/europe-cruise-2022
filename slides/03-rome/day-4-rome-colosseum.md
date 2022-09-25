@@ -1,5 +1,5 @@
-#### Day 4 - Mon 10/10
-## **Roman Colosseum**
+#### Day 4 - Mon 10/10 - Rome
+## **Colosseum**
 
 <span style="font-size:50%">listen to [Rick Steves' Colosseum Audio Tour](https://podcasts.ricksteves.com/walkingtours/Colosseum.mp3) (MP3, 41:05)</span>
 

@@ -1,4 +1,4 @@
-#### Day 10 - Sun 10/16  (Cruise Day 6)
+#### Day 10 - Sun 10/16 - Cruise Day 6
 ## **Santorini**
 
 🚢 **8:00**: Arrive at port

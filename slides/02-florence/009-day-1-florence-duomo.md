@@ -1,4 +1,4 @@
-#### Day 1 - Fri 10/7 
+#### Day 1 - Fri 10/7 - Florence
 ## **Exploring The Duomo**
 <br>
 

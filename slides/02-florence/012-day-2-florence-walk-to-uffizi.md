@@ -1,4 +1,4 @@
-#### Day 2 - Sat 10/8
+#### Day 2 - Sat 10/8 - Florence
 ## **Renaissance Walk**
 
 🚶**8:30 AM**: Walk to Uffizi Gallery [(10 mins)](https://goo.gl/maps/DzviAUZLp9neK5zWA)
