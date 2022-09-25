@@ -124,7 +124,7 @@ src: ./slides/03-rome/023-covid-testing.md
 
 ---
 layout: two-cols
-src: ./slides/03-rome/024-day-3-rome-victor-emmanuel.md
+src: ./slides/03-rome/024-day-3-rome-altar-of-the-fatherland.md
 ---
 
 ---
@@ -167,7 +167,24 @@ layout: two-cols
 src: ./slides/03-rome/day-4-rome-colosseum.md
 ---
 
+---
+layout: two-cols
+src: ./slides/04-cruise-departure/day-5-rome-to-civitavecchia.md
+---
 
+---
+layout: two-cols
+src: ./slides/04-cruise-departure/day-5-civitavecchia-train-station-to-port.md
+---
+
+---
+layout: two-cols
+src: ./slides/04-cruise-departure/day-5-embarkation-and-cruise-departure.md
+---
+
+---
+src: ./slides/04-cruise-departure/day-6-and-7-at-sea-days.md
+---
 
 ---
 layout: two-cols
@@ -218,6 +235,7 @@ src: ./slides/06-sicily-and-naples/day-14-naples-positano.md
 layout: two-cols
 src: ./slides/06-sicily-and-naples/day-14-naples-sorrento.md
 ---
+
 
 
 
