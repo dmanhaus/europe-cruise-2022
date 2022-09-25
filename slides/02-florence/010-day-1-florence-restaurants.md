@@ -2,7 +2,7 @@
 ## **Food & Shopping in Florence**
 
 > If you're hungry, there are many options near the AirBnB including: <br>
-> - [**Caffeteria della Oblate**](https://www.tripadvisor.com/Restaurant_Review-g187895-d2433470-Reviews-Caffetteria_delle_Oblate-Florence_Tuscany.html), a laid-back budget eatery a block from the Duomo within a library, known mainly for its outdoor terrace and a bright interior with views of the Duomo, than the food, which basic and affordable.
+> - [**Caffeteria della Oblate**](https://www.tripadvisor.com/Restaurant_Review-g187895-d2433470-Reviews-Caffetteria_delle_Oblate-Florence_Tuscany.html), a laid-back budget eatery a block from the Duomo within a library, known more for its outdoor terrace and a bright interior with views of the Duomo, than the food, which is basic but affordable.
 > - [**Mercato Centrale**](https://www.mercatocentrale.com/florence/how-it-works/) The better food vendor stalls downstairs close at 3PM, but upstairs there is a more touristy food court.
 
 <br>
