@@ -107,25 +107,29 @@ src: ./slides/02-florence/019-day-2-florence-dinner.md
 ---
 
 ---
-src: ./slides/03-rome/day-3-florence-to-rome.md
+src: ./slides/03-rome/020-day-3-florence-to-rome.md
 ---
 
 ---
-src: ./slides/03-rome/rome-overview.md
+src: ./slides/03-rome/021-rome-overview.md
 ---
 
 ---
-src: ./slides/03-rome/day-3-rome-arrival.md
+src: ./slides/03-rome/022-day-3-rome-arrival.md
+---
+
+---
+src: ./slides/03-rome/023-covid-testing.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/03-rome/day-3-rome-bus-to-piazza-navona.md
+src: ./slides/03-rome/024-day-3-rome-victor-emmanuel.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/03-rome/day-3-rome-heart-of-rome-walk.md
+src: ./slides/03-rome/025-day-3-rome-heart-of-rome-walk.md
 ---
 
 ---
