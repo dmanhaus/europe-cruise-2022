@@ -123,18 +123,30 @@ src: ./slides/03-rome/023-covid-testing.md
 ---
 
 ---
-layout: two-cols
-src: ./slides/03-rome/024-day-3-rome-altar-of-the-fatherland.md
+src: ./slides/03-rome/024-covid-testing-emed.md
+---
+
+---
+src: ./slides/03-rome/025-covid-testing-pharmacy.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/03-rome/025-day-3-rome-heart-of-rome-walk.md
+src: ./slides/03-rome/026-day-3-rome-altar-of-the-fatherland.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/03-rome/day-3-rome-pantheon.md
+src: ./slides/03-rome/027-day-3-rome-heart-of-rome-walk.md
+---
+
+---
+layout: two-cols
+src: ./slides/03-rome/028-day-3-rome-pantheon.md
+---
+
+---
+src: ./slides/03-rome/029-day-3-rome-pantheon-to-trevi.md
 ---
 
 ---
@@ -236,6 +248,30 @@ layout: two-cols
 src: ./slides/06-sicily-and-naples/day-14-naples-sorrento.md
 ---
 
+---
+src: ./slides/07-return-home/day-15-civitavecchia-port-and-debarkation.md
+---
 
+---
+layout: two-cols
+src: ./slides/07-return-home/day-15-civitavecchia-port-to-train-station.md
+---
+
+---
+layout: two-cols
+src: ./slides/07-return-home/day-15-civitavecchia-to-rome.md
+---
+
+---
+src: ./slides/07-return-home/day-15-last-day-in-rome.md
+---
+
+---
+src: ./slides/07-return-home/day-15-rome-to-airport-hilton.md
+---
+
+---
+src: ./slides/07-return-home/day-16-transatlantic-flight-home.md
+---
 
 
