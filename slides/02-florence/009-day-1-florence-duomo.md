@@ -2,7 +2,7 @@
 ## **Exploring The Duomo**
 <br>
 
-> Entry is free, so take some time this afternoon while we stay close to "home" to explore the beauty of the Duomo from the Piazzas outside, and the Cathedral within. 
+> Entry is free, so take some time this afternoon while we stay close to "home" to explore the beauty of the Duomo from the Piazza outside, and the Cathedral within. 
 
 |     |     |     |
 | --- | --- | --- | 
