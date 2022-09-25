@@ -151,7 +151,7 @@ src: ./slides/03-rome/029-day-3-rome-pantheon-to-trevi.md
 
 ---
 layout: two-cols
-src: ./slides/03-rome/day-3-rome-trevi-fountain.md
+src: ./slides/03-rome/030-day-3-rome-trevi-fountain.md
 ---
 
 ---
@@ -186,7 +186,7 @@ src: ./slides/04-cruise-departure/day-5-rome-to-civitavecchia.md
 
 ---
 layout: two-cols
-src: ./slides/04-cruise-departure/day-5-civitavecchia-train-station-to-port.md
+src: ./slides/04-cruise-departure/day-5-civitavecchia-train-station-to-transit-center.md
 ---
 
 ---
