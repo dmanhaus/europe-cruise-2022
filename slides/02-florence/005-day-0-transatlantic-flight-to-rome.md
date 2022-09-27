@@ -1,9 +1,11 @@
 #### Day 0 - Thu 10/6 - Travel Day
 ## **Trans-Atlantic Flight to Rome**
 ### 
-### 🚐 East Haven to JFK by Ground Transport <span style="color:red"> **(unconfirmed)** </span>
- 
-> We take a private **Connecticut Limo** Sprinter Van from East Haven to JFK <br>
+### 🚐 East Haven to JFK by Ground Transport 
+
+### Pickup Time 12:00PM at D&D's House **Confirmed**
+
+> We take a private **Connecticut Limo**  Van from East Haven to JFK <br>
 > The ride lasts between 2 - 2.5 hours depending on traffic <br>
 > Round-trip transport costs **$920 + $180 tip ($275 per couple total)**
 
