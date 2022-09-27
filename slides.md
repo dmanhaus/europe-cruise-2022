@@ -119,39 +119,27 @@ src: ./slides/03-rome/022-day-3-rome-arrival.md
 ---
 
 ---
-src: ./slides/03-rome/023-covid-testing.md
----
-
----
-src: ./slides/03-rome/024-covid-testing-emed.md
----
-
----
-src: ./slides/03-rome/025-covid-testing-pharmacy.md
+layout: two-cols
+src: ./slides/03-rome/023-day-3-rome-altar-of-the-fatherland.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/03-rome/026-day-3-rome-altar-of-the-fatherland.md
+src: ./slides/03-rome/024-day-3-rome-heart-of-rome-walk.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/03-rome/027-day-3-rome-heart-of-rome-walk.md
+src: ./slides/03-rome/025-day-3-rome-pantheon.md
+---
+
+---
+src: ./slides/03-rome/026-day-3-rome-pantheon-to-trevi.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/03-rome/028-day-3-rome-pantheon.md
----
-
----
-src: ./slides/03-rome/029-day-3-rome-pantheon-to-trevi.md
----
-
----
-layout: two-cols
-src: ./slides/03-rome/030-day-3-rome-trevi-fountain.md
+src: ./slides/03-rome/027-day-3-rome-trevi-fountain.md
 ---
 
 ---
