@@ -148,8 +148,12 @@ src: ./slides/03-rome/028-day-3-rome-spanish-steps.md
 ---
 
 ---
+src: ./slides/03-rome/029-day-4-airbnb-to-st-peters-square.md
+---
+
+---
 layout: two-cols
-src: ./slides/03-rome/day-4-rome-st-peters-square.md
+src: ./slides/03-rome/030-day-4-rome-st-peters-square.md
 ---
 
 ---
