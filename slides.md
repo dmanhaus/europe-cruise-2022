@@ -144,7 +144,7 @@ src: ./slides/03-rome/027-day-3-rome-trevi-fountain.md
 
 ---
 layout: two-cols
-src: ./slides/03-rome/day-3-rome-spanish-steps.md
+src: ./slides/03-rome/028-day-3-rome-spanish-steps.md
 ---
 
 ---
@@ -173,12 +173,10 @@ src: ./slides/04-cruise-departure/day-5-rome-to-civitavecchia.md
 ---
 
 ---
-layout: two-cols
 src: ./slides/04-cruise-departure/day-5-civitavecchia-train-station-to-transit-center.md
 ---
 
 ---
-layout: two-cols
 src: ./slides/04-cruise-departure/day-5-embarkation-and-cruise-departure.md
 ---
 
