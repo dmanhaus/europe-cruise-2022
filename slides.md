@@ -163,12 +163,12 @@ src: ./slides/03-rome/031-day-4-rome-st-peters-square-to-forum.md
 
 ---
 layout: two-cols
-src: ./slides/03-rome/day-4-rome-roman-forum.md
+src: ./slides/03-rome/032-day-4-rome-roman-forum.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/03-rome/day-4-rome-palatine-hill.md
+src: ./slides/03-rome/033-day-4-rome-palatine-hill.md
 ---
 
 ---
