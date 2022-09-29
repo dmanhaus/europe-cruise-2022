@@ -177,96 +177,92 @@ src: ./slides/03-rome/034-day-4-rome-colosseum.md
 ---
 
 ---
-layout: two-cols
-src: ./slides/04-cruise-departure/day-5-rome-to-civitavecchia.md
+src: ./slides/04-cruise-departure/035-day-5-rome-to-civitavecchia.md
 ---
 
 ---
-src: ./slides/04-cruise-departure/day-5-civitavecchia-train-station-to-transit-center.md
+src: ./slides/04-cruise-departure/036-day-5-civitavecchia-train-station-to-transit-center.md
 ---
 
 ---
-src: ./slides/04-cruise-departure/day-5-embarkation-and-cruise-departure.md
+src: ./slides/04-cruise-departure/037-day-5-embarkation-and-cruise-departure.md
 ---
 
 ---
-src: ./slides/04-cruise-departure/day-6-and-7-at-sea-days.md
----
-
----
-layout: two-cols
-src: ./slides/05-turkey-and-greece/day-8-mykonos.md
+src: ./slides/04-cruise-departure/038-day-6-and-7-at-sea-days.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/05-turkey-and-greece/day-9-ephesus.md
+src: ./slides/05-turkey-and-greece/039-day-8-mykonos.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/05-turkey-and-greece/day-10-santorini.md
+src: ./slides/05-turkey-and-greece/040-day-9-ephesus.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/05-turkey-and-greece/day-11-athens.md
+src: ./slides/05-turkey-and-greece/041-day-10-santorini.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/05-turkey-and-greece/day-12-olympia.md
+src: ./slides/05-turkey-and-greece/042-day-11-athens.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/06-sicily-and-naples/day-13-sicily.md
+src: ./slides/05-turkey-and-greece/043-day-12-olympia.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/06-sicily-and-naples/day-14-naples.md
+src: ./slides/06-sicily-and-naples/044-day-13-sicily.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/06-sicily-and-naples/day-14-naples-amalfi.md
+src: ./slides/06-sicily-and-naples/045-day-14-naples.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/06-sicily-and-naples/day-14-naples-positano.md
+src: ./slides/06-sicily-and-naples/046-day-14-naples-amalfi.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/06-sicily-and-naples/day-14-naples-sorrento.md
----
-
----
-src: ./slides/07-return-home/day-15-civitavecchia-port-and-debarkation.md
+src: ./slides/06-sicily-and-naples/047-day-14-naples-positano.md
 ---
 
 ---
 layout: two-cols
-src: ./slides/07-return-home/day-15-civitavecchia-port-to-train-station.md
+src: ./slides/06-sicily-and-naples/048-day-14-naples-sorrento.md
 ---
 
 ---
-layout: two-cols
-src: ./slides/07-return-home/day-15-civitavecchia-to-rome.md
+src: ./slides/07-return-home/049-day-15-civitavecchia-port-and-debarkation.md
 ---
 
 ---
-src: ./slides/07-return-home/day-15-last-day-in-rome.md
+src: ./slides/07-return-home/050-day-15-civitavecchia-port-to-train-station.md
 ---
 
 ---
-src: ./slides/07-return-home/day-15-rome-to-airport-hilton.md
+src: ./slides/07-return-home/051-day-15-civitavecchia-to-rome.md
 ---
 
 ---
-src: ./slides/07-return-home/day-16-transatlantic-flight-home.md
+src: ./slides/07-return-home/052-day-15-last-day-in-rome.md
 ---
 
+---
+src: ./slides/07-return-home/053-day-15-rome-to-airport-hilton.md
+---
+
+---
+src: ./slides/07-return-home/054-day-16-transatlantic-flight-home.md
+---
 
