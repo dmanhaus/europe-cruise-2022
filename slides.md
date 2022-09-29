@@ -173,7 +173,7 @@ src: ./slides/03-rome/033-day-4-rome-palatine-hill.md
 
 ---
 layout: two-cols
-src: ./slides/03-rome/day-4-rome-colosseum.md
+src: ./slides/03-rome/034-day-4-rome-colosseum.md
 ---
 
 ---
