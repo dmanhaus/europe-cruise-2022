@@ -5,7 +5,7 @@
 
 Upon checking-out from the Hilton, we'll take a covered walkway directly to Terminal 3, where our flight home boards.
 
-### ✈️ JFK to Leonardo da Vinci (FCO) by Plane
+### ✈️ Leonardo da Vinci (FCO) to  JFK by Plane
 > **American Airlines Flight 235** [(check Flight Status)](https://www.aa.com/travelInformation/flights/status) <br>
 > Depart from FCO airport **10:30 AM** <br>
 > The flight time is 9 hours 39 mins <br>
