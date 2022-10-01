@@ -1,9 +1,9 @@
 #### Day 15 - Fri 10/21 - Rome
 ## **Last Day in Rome**
 
-Arriving in Rome Termini, the first thing we'll want to do is store our luggage somewhere until we're ready to leave Rome and head for our hotel near the airport.
+> Arriving in Rome Termini, the first thing we'll want to do is store our luggage until we're ready to leave Rome and head for our hotel near the airport.
 
-🚶**On Arrival**: Walk from Termini Station (Via Giovanni Giolitti Exit) to luggage storage service [(5 mins)](https://goo.gl/maps/xGPwktLxTVmY87RR8)
+🚶**On Arrival**: Walk from Termini Station <span style="font-size:60%">(use **Via Giovanni Giolitti Exit**)</span> to luggage storage service [(5 mins)](https://goo.gl/maps/xGPwktLxTVmY87RR8)
 
 <details>
 <summary><span style="font-size:75%"> click here for details on the luggage storage</span></summary>
@@ -16,3 +16,6 @@ Arriving in Rome Termini, the first thing we'll want to do is store our luggage 
 #### 📷 Vicus Caprarius
 > One option to consider is [Vicus Caprarius](https://www.tiktok.com/@travelbymitra/video/7051676676685565190), the underground system of ancient pools that feed the Trevi Fountain. <br> <span style="font-size:60%">[€4, no reservation required on Fridays](https://www.vicuscaprarius.com/en/#tariffe)</span>
 
+<br>
+
+<img src="/rome-vicus-caprarius.jpg" height="100" width="200" style="margin:auto"/>
