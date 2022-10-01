@@ -7,4 +7,4 @@
 | **3** | Sun | 10/9 | <Link to="20">Florence -> Rome</Link>, <Link to="24">"Heart of Rome" Walk</Link>, <Link to="27">Trevi Fountain</Link>, <Link to="28">Spanish Steps</Link> |
 | **4** | Mon | 10/10 | **Rome**: <Link to="30">St. Peter's Square & Basillica</Link>, <Link to="32">Roman Forum</Link>, <Link to="34">Colisseum</Link> |
 | **5** | Tue | 10/11 | <Link to="35">Rome -> Civitavecchia</Link>, <Link to="37">Embarkation & Cruise Departure</Link> |
-| **6,7** | Wed/Thu | 10/12,13 | At Sea - Carnival Pride |
+| **6,7** | Wed/Thu | 10/12,13 | <Link to="38">At Sea - Carnival Pride</Link> |
