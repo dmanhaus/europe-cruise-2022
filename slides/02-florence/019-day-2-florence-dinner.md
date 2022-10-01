@@ -3,7 +3,7 @@
 
 🚶 **7:30 PM**: Walk from AirBnB to Hotel Baglioni [(10 mins)](https://goo.gl/maps/PVvVbmdQXy8PC2y66)
 
-🍴 **8:00 PM**: Dinner reservation at B-Roof (confirmed) 
+🍴 **8:00 PM**: Dinner reservation at B-Roof <span style="font-size:50%">(confirmed)</span> 
 
 <br>
 
