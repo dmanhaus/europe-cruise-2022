@@ -10,7 +10,9 @@
     "@slidev/cli": "^0.35.6",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
-    "slidev-theme-eloc": "^1.0.1"
+    "@videojs-player/vue": "^1.0.0",
+    "slidev-theme-eloc": "^1.0.1",
+    "video.js": "^7.20.3"
   },
   "devDependencies": {
     "playwright-chromium": "^1.26.0"
