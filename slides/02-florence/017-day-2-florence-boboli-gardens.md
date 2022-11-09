@@ -13,6 +13,9 @@
 
 <img src="/pitti-palace-boboli-gardens-map.png" height="200" width="400" style="margin:auto"/>
 
+📷 [Boboli Garden Pictures](https://whimsytours.shootproof.com/gallery/19663345/album/13564586)
+
+
 ::right::
 |     | 
 | --- | 
