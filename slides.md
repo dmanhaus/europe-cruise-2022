@@ -51,20 +51,7 @@ src: ./slides/02-florence/007-florence-overview.md
 ---
 
 ---
-src: ./slides/02-florence/008-day-1-florence-arrival.md
----
-
----
-src: ./slides/02-florence/009-day-1-florence-duomo.md
----
-
----
-layout: two-cols
-src: ./slides/02-florence/010-day-1-florence-restaurants.md
----
-
----
-src: ./slides/02-florence/011-day-1-florence-dinner.md
+src: ./slides/02-florence/008a-day-1-memories.md
 ---
 
 ---
